@@ -5,9 +5,9 @@
 💻 Interests: web development, digital/computer forensics, ethical AI
 
 ## 🛠 Skills
-💻 Python • Java • HTML/CSS • JS • VHDL • SPSS • Liquid
-📊 Matplotlib • NumPy • Pandas • Jupyter Notebook 
-📂 Web dev • Data Cleaning • Design • DataViz • Data analysis
+💻 Python • Java • HTML/CSS • JS • VHDL • SPSS • Liquid <br>
+📊 Matplotlib • NumPy • Pandas • Jupyter Notebook <br>
+📂 Web dev • Data Cleaning • Design • DataViz • Data analysis <br>
 ✅ Certificates: 
 
 ## 📁 Projects
