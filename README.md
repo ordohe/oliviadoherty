@@ -2,7 +2,7 @@
 # Hi, I'm Olivia!
 
 🎓 Computer Science + Psychology @ Colby College  
-💻 Interests: web development, digital/computer forensics, ethical AI
+💻 Interests: computer vision, web development, digital/computer forensics, ethical AI
 
 ## Skills
 Languages: Python • Java • HTML/CSS • JS • VHDL • SPSS • Liquid <br>
