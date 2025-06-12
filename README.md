@@ -1,12 +1,11 @@
 
 # Hi, I'm Olivia!
 
-🎓 Computer Science + Psychology @ Colby College  
-💻 Interests: computer vision, web development, digital/computer forensics, ethical AI
+🎓 Computer Science + Psychology @ Colby College '26 <br>
+⭐️ Interests: computer vision, digital forensics, web development, ethical AI
 
 ## Skills
 Languages: Python • Java • HTML/CSS • JS • VHDL • SPSS • Liquid <br>
-Libraries & Frameworks: Matplotlib • NumPy • Pandas • Jupyter Notebook <br>
 Skills: Web dev • Data Cleaning • Design • DataViz • Data Analysis <br>
 Certificates: 
 
@@ -42,17 +41,16 @@ Certificates:
 • Maintained Shopify site and visual flow for vinyl/digital releases  
 • Created financial tracking systems and royalty breakdowns in Excel  
 
-**Hug Yours** – Shopify Website Creator  
-*2025–Present*  
-- Developed [hugyours.com](https://hugyours.com), a Shopify site for a streetwear-inspired embroidered hoodie brand  
-- Built custom blog and story submission sections using Liquid  
-- Implemented responsive design, interactive navigation, and product inventory management
-
-**Colby College Track and Field** – *Social Media & Marketing Coordinator* (May 2025 – Present)  
+**Colby College Track and Field** – *_Digital Creator and Social Media Marketer_* (May 2025 – Present)  
 [<img src="https://img.shields.io/badge/Instagram-colbytf-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge">](https://www.instagram.com/colbytf) <br>
 • Developed content strategy and unified brand identity  
 • Managed Instagram, Facebook, and Twitter using Canva and analytics tools  
 • Boosted engagement among recruits and the campus community  
+
+**Hug Yours** – *Web developer* (2025–Present)  
+• Developed [hugyours.com](https://hugyours.com), a Shopify site for a streetwear-inspired embroidered hoodie brand  
+• Built custom blog and story submission sections using Liquid  
+•Implemented responsive design, interactive navigation, and product inventory management
 
 **Colby College CS Department** – *Teaching Assistant & Project Grader* (Jan 2025 – May 2025)  
 • Assisted students in CS251: Data Analysis & Visualization  
