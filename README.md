@@ -1,5 +1,5 @@
 
-# Hi, I'm Olivia
+# Hi, I'm Olivia!
 
 🎓 Computer Science + Psychology @ Colby College  
 💻 Interests: web development, digital/computer forensics, ethical AI
@@ -9,8 +9,6 @@
 📊 Matplotlib • NumPy • Pandas • Jupyter Notebook <br>
 📂 Web dev • Data Cleaning • Design • DataViz • Data analysis <br>
 ✅ Certificates: 
-
-## 📁 Projects
 
 ### 🧠 Research & Data
 **Huffman Environmental Cognition Lab** – Research Assistant  
@@ -25,6 +23,31 @@
 - Developed [hugyours.com](https://hugyours.com), a Shopify site for a streetwear-inspired embroidered hoodie brand  
 - Built custom blog and story submission sections using Liquid  
 - Implemented responsive design, interactive navigation, and product inventory management
+
+  ## 📁 Projects
+**Python**:
+- 📊 [Data Analysis & Visualization Projects](https://github.com/ordohe/data-analysis-visualization) *(Spring 2024)*  
+  Python-based projects using `Pandas`, `NumPy`, `Matplotlib`, and `Jupyter`. Includes:
+  - Exploratory Data Analysis  
+  - Linear Regression  
+  - Neural Networks  
+  - Clustering (K-means)  
+  - Principal Component Analysis  
+  - Spam Classification (NLP & Logistic Regression)  
+
+**Java**:
+- 🃏 [Blackjack Simulation](https://github.com/ordohe/dsa-projects/tree/main/blackjack_simulation) *(Fall 2023)*  
+  Monte Carlo simulation of Blackjack using **ArrayLists** and **OOP** in Java  
+- 🧬 [Conway's Game of Life](https://github.com/ordohe/dsa-projects/tree/main/conways_game_of_life) *(Fall 2023)*  
+  Cellular automata simulation with **2D arrays** and a **Java Swing** GUI  
+- 🧍 [Agent-Based Simulation](https://github.com/ordohe/dsa-projects/tree/main/agent-based-simulation) *(Fall 2023)*  
+  Social behavior simulation in continuous 2D space using a custom **Linked List** implementation  
+- 🔢 [Sudoku Solver](https://github.com/ordohe/dsa-projects/tree/main/sudoku_solver) *(Fall 2023)*  
+  Implements a **depth-first search** with a custom **Stack** to solve Sudoku puzzles  
+- 🌲 [Word Frequency Analysis](https://github.com/ordohe/dsa-projects/tree/main/word_frequency_bst) *(Fall 2023)*  
+  Text processing using **Binary Search Trees** and **Hash Maps** for comparison  
+- 🕵️ [Pursuit-Evasion Game](https://github.com/ordohe/dsa-projects/tree/main/pursuit-evasion) *(Fall 2023)*  
+  Graph-based evasion game using **Graphs**, **Priority Queues**, **Heaps**, **Queues**, and **Stacks**
 
 
 ## 💼 Experience
@@ -60,7 +83,3 @@
 &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">](https://www.linkedin.com/in/oliviardoherty/)
 
-<!---
-ordohe/ordohe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
