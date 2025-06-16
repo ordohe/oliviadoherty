@@ -39,7 +39,8 @@ Certificates:
 **Slow Down Sounds** – *AI Marketing & Operations Intern* (May 2025 – Present)  
 • Applied AI tools to automate redundant business tasks  
 • Maintained Shopify site and visual flow for vinyl/digital releases  
-• Created financial tracking systems and royalty breakdowns in Excel  
+• Created financial tracking systems and royalty breakdowns in Excel <br>
+• Built a [Streamlit web app](https://split-by-artist-jaaivpovz947seic3mzgzm.streamlit.app/) to auto split excel royalty files by artist
 
 **Colby College Track and Field** – *_Digital Creator and Social Media Marketer_* (May 2025 – Present)  
 [<img src="https://img.shields.io/badge/Instagram-colbytf-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge">](https://www.instagram.com/colbytf) <br>
