@@ -39,7 +39,7 @@ Skills: Web dev • Data Cleaning • Design • DataViz • Data Analysis <br>
 • Applied AI tools to automate redundant business tasks  
 • Maintained Shopify site and visual flow for vinyl/digital releases  
 • Created financial tracking systems and royalty breakdowns in Excel <br>
-• Built a [web app]([https://split-by-artist-jaaivpovz947seic3mzgzm.streamlit.app/](https://github.com/ordohe/sdswebapp)) to with multiple functionalities, including royalty creation and inventory tracking capabilities.
+• Built a [web app](https://github.com/ordohe/sdswebapp) to with multiple functionalities, including royalty creation and inventory tracking capabilities.
 
 **Colby College Track and Field** – *_Digital Creator and Social Media Marketer_* (May 2025 – Present)  
 [<img src="https://img.shields.io/badge/Instagram-colbytf-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge">](https://www.instagram.com/colbytf) <br>
